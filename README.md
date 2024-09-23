@@ -1,6 +1,6 @@
 # Faste Bayesian Neural Network
 
-This repository is the implementation of "Fast Bayesian Neural Network" in python which contains tools for simulating datasets, calibrating Bayesian Neural Networks (BNN), and performing emulation and sampling steps for binary classification tasks. The **Fast Bayesian Neural Network (FBNN)** model is a computationally efficient framework designed to perform Bayesian Neural Network inference for high-dimensional data, leveraging a novel **Calibration-Emulation-Sampling (CES)** strategy.
+This repository is the implementation of **"Fast Bayesian Neural Network (FBNN)"** in python which contains tools for simulating datasets, calibrating Bayesian Neural Networks (BNN), and performing emulation and sampling steps for binary classification tasks. The **Fast Bayesian Neural Network (FBNN)** model is a computationally efficient framework designed to perform Bayesian Neural Network inference for high-dimensional data, leveraging a novel **Calibration-Emulation-Sampling (CES)** strategy.
 
 ## Quick Start
 
